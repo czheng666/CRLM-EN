@@ -1,0 +1,6 @@
+frozen_identifier,release_label,meaning,action
+SPP1_TAM_published_2025,literature_derived_SPP1_TAM_marker_score,Frozen 8-gene literature-derived comparator,Keep frozen identifier; map at code boundary
+published_SPP1_TAM,literature_derived_SPP1_TAM_marker_score,Reader-facing alias used by plotting code,Use neutral release label in new code
+P1_state,P1-state,Frozen five-state annotation label,Map for display only
+P2_inflammatory,Inflammatory,Frozen five-state annotation label,Map for display only
+P3_C1Q_MHCII,C1Q/MHC-II,Frozen five-state annotation label,Map for display only
